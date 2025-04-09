@@ -5,6 +5,6 @@ cu =0
 for x in ar_src : 
  if x < ar_src[cu] :
   print ("x",x)
-cu +=1
+ cu +=1
 
 
