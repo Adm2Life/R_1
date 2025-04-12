@@ -7,4 +7,6 @@ for x in ar_src :
   print ("x",x)
  cu +=1
 
-
+def myFun(*arg):
+ argOut = arg[1] + arg[0]
+ return argOut
