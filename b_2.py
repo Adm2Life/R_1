@@ -7,4 +7,4 @@ for x in range(len(ar)):
   if ar[y]>ar[y+1] : 
    ar[y] , ar[y+1] = ar[y+1] , ar[y]
 
-print(ar)
+print("Ar after sorting == ", ar)
